@@ -1,4 +1,4 @@
-**Hi, I’m Kalidas KJ (aka @N0va777)**  
+  Hi, I’m Kalidas KJ (aka @N0va777) 
 
 - Passionate about software development, game development, and creating innovative digital experiences.  
 - Currently learning advanced techniques in Unreal Engine and Blender, while enhancing my skills in Python and C++.  
