@@ -59,7 +59,7 @@
   <!-- Web & Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,dynamodb" /><br>
   <!-- Tools & IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,gitlab,github,notion,figma,pwsh" /><br>
   <!-- Operating Systems & Platforms -->
