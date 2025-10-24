@@ -1,31 +1,9 @@
-<!-- Header Wave (Commented Out)
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
-    />
-  </a>
-  <br>
-</div>
--->
-
-<!-- Footer Wave (Commented Out)
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
-    width="100%" 
-  />
-</p>
--->
-
 <!-- MasterHead -->
 <a href="https://github.com/KalidasKJ/KalidasKJ/blob/main/fallout_grayscale%20(1).gif">
   <img src="https://github.com/KalidasKJ/KalidasKJ/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto" />
 </a>
 
-<!-- Greeting -->
-<!--<h2 align="center">❂ I am Kalidas KJ</h2>-->
+<h2 align="center">❂ I am Kalidas KJ</h2>
 
 <div align="center">
   <!-- Profile Views -->
@@ -127,18 +105,4 @@
 <!-- Support -->
 <h3 align="center">💰 Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kalidaskj">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<!-- Ending -->
-<a href="https://github.com/KalidasKJ/Wall-E-Desk/blob/main/green.gif">
-  <img src="https://github.com/KalidasKJ/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Wall-E GIF" style="width:auto; height:auto" />
-</a>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<p align="center">
-  ⚠️ This README is uniquely designed by <strong>Kalidas KJ</strong>.
-</p>
+  <a href="https://w
