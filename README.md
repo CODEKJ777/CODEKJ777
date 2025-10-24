@@ -51,21 +51,22 @@
 
 <br/>
 
-
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
   <!-- Languages & Programming -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,unreal" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,unreal,postgres" /><br>
   <!-- Web & Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" /><br>
   <!-- Tools & IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,gitlab,github,notion,figma,pwsh" /><br>
   <!-- Operating Systems & Platforms -->
   <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,androidstudio,kotlin" /><br>
 </div>
+
+
 <br/>
 
 <!-- Best Repositories -->
