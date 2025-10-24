@@ -54,29 +54,18 @@
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center" style="line-height:2.5;">
-  
+<div align="center">
   <!-- Languages & Programming -->
-  <h4>💻 Languages & Programming</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,unreal" /><br><br>
-  
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,unreal" /><br>
   <!-- Web & Frontend -->
-  <h4>🌐 Web & Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br><br>
-  
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /><br>
   <!-- Databases -->
-  <h4>🗄️ Databases</h4>
-  <img src="https://skillicons.dev/icons?i=mongodb" /><br><br>
-  
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br>
   <!-- Tools & IDEs -->
-  <h4>🛠️ Tools & IDEs</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,gitlab,github,notion,figma,pwsh" /><br><br>
-  
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,gitlab,github,notion,figma,pwsh" /><br>
   <!-- Operating Systems & Platforms -->
-  <h4>🖥️ Operating Systems & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,androidstudio,kotlin" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,androidstudio,kotlin" /><br>
 </div>
-
 <br/>
 
 <!-- Best Repositories -->
