@@ -97,4 +97,11 @@ Interests: gaming, music, fitness, and magic
 
 ##### Other Stuff / Tools & Security:
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)&nbsp;
-![OAuth2.0](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+<br>
+
+<!-- Monkeytype Stats Placeholder -->
+<h3 align="center">🐒 Typing Stats</h3>
+<div align="center">
+  ![Monkeytype](https://monkeytype-badge.vercel.app/api?username=kalidaskj)
+</div>
