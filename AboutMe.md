@@ -100,8 +100,8 @@ Interests: gaming, music, fitness, and magic
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 <br>
 
-<!-- Monkeytype Stats Placeholder -->
+<!-- Monkeytype Stats -->
 <h3 align="center">🐒 Typing Stats</h3>
 <div align="center">
-  ![Monkeytype](https://monkeytype-badge.vercel.app/api?username=kalidaskj)
+  <a href="https://monkeytype.com/profile/Kalidaskj" target="_blank">Monkeytype Profile</a>
 </div>
