@@ -6,7 +6,12 @@
   <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
 </a>
 
-<br><br><br> <!-- Added space -->
+<br><br> <!-- space between MasterHead and typing animation -->
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey%2C+I'm+Kalidas+KJ;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<br><br> <!-- space before About Me -->
 
 <!-- About Me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
@@ -19,7 +24,6 @@ I am a **Software Developer** passionate about building scalable apps and explor
 - ✔ Feel free to ask me anything! I'm always eager to help.
 - 📫 Reach out to me at <a href="mailto:vikramjit.s.gill04@email.com">vikramjit.s.gill04@email.com</a>
 - Outside of tech, I enjoy 🎮 video games, 🎵 music, 💪 gym, 🍿 anime, and 📖 manhwas!
-
 
   
   
