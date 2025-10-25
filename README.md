@@ -43,19 +43,21 @@
 
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,unreal,blender" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,unreal,blender&perline=7" />
 
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,figma&perline=7" />
 
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,pycharm,docker,aws" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,pycharm,docker,aws&perline=7" />
 
   <!-- Row 4 -->
-  <img src="https://skillicons.dev/icons?i=vscode,github,notion,pwsh,aftereffects,linux,unity" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,notion,pwsh,aftereffects,linux,unity&perline=7" />
 </div>
+
 
 
 <br/>
