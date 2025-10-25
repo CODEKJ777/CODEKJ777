@@ -28,4 +28,22 @@ Curious and approachable—always happy to answer questions and share knowledge.
 
 Portfolio: <a href="https://detour3d.framer.media" target="_blank">My Portfolio</a>  
 
+
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:vikramjit.s.gill04@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vikramjit-s-gill" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/vikram2003" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Vikramjitsgill" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+
 Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
