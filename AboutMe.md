@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey%2C+I'm+Kalidas+KJ;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<br><br> <!-- space before About Me -->
+<br> <!-- space before About Me -->
 
 <!-- About Me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
