@@ -1,7 +1,8 @@
 <!-- MasterHead -->
-<a href="https://github.com/KalidasKJ/KalidasKJ/blob/main/GIF.gif">
-  <img src="https://github.com/KalidasKJ/KalidasKJ/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
+<a href="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif">
+  <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
 </a>
+
 
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Kalidas KJ</h2>-->
