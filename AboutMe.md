@@ -108,8 +108,8 @@ Interests: gaming, music, fitness, and magic
 <br>
 
 <!-- Monkeytype Stats -->
-<h3 align="center">🐒 Typing Stats</h3>
+<h3 align="center">Typing Stats</h3>
 <div align="center">
-  <a href="https://monkeytype.com/profile/Kalidaskj" target="_blank">Kalidas KJ's Monkeytype Profile</a>
+  <a href="https://monkeytype.com/profile/Kalidaskj" target="_blank">Monkeytype Profile</a>
 </div>
 
