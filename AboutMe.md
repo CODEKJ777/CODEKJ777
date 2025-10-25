@@ -6,12 +6,7 @@
   <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
 </a>
 
-
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey%2C+I'm+Kalidas+KJ;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-<br> <!-- space before About Me -->
+<br><br> <!-- space before About Me -->
 
 <!-- About Me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
@@ -28,9 +23,9 @@ Curious and approachable—always happy to answer questions and share knowledge.
 
 Portfolio: <a href="https://detour3d.framer.media" target="_blank">My Portfolio</a>  
 
-Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
+Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic  
 
-<br>
+<br><br>
 
 <!-- Social Links -->
 <div align="center">
@@ -44,5 +39,3 @@ Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
-
-
