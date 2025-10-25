@@ -8,18 +8,7 @@
 <!--<h2 align="center">❂ I am Kalidas KJ</h2>-->
 
 <div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/KalidasKJ" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=KalidasKJ&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
-
-  <!-- Total Stars -->
-  <a href="https://github.com/KalidasKJ?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/KalidasKJ?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
-
-  <!-- Followers -->
-  <a href="https://github.com/KalidasKJ?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/KalidasKJ?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-</div>
+ 
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/KalidasKJ/KalidasKJ/blob/main/transparent_gitgif.gif" />
 
@@ -116,6 +105,18 @@
 </div>
 
 <br/>
+ <!-- Profile Views -->
+  <a href="https://github.com/KalidasKJ" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=KalidasKJ&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/KalidasKJ?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/KalidasKJ?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+  <!-- Followers -->
+  <a href="https://github.com/KalidasKJ?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/KalidasKJ?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+</div>
 
 
 <!-- Ending -->
