@@ -6,7 +6,7 @@
   <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
 </a>
 
-<br><br> <!-- space between MasterHead and typing animation -->
+<br>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Hey%2C+I'm+Kalidas+KJ;Welcome+to+my+profile!)](https://git.io/typing-svg)
