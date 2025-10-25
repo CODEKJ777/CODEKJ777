@@ -26,6 +26,6 @@ Open to collaborating on **games, interactive software, open-source projects, or
 
 Curious and approachable—always happy to answer questions and share knowledge.  
 
-Portfolio: [https://detour3d.framer.media](https://detour3d.framer.media)  
+Portfolio: <a href="https://detour3d.framer.media" target="_blank">My Portfolio</a>  
 
 Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
