@@ -23,15 +23,20 @@ Interests: gaming, music, fitness, and magic
 <br/>
 
 <!-- Connect with Me -->
-<h3 align="center">🧲 Connect with Me:</h3>
+<h3 align="center">🌐 Connect with Me:</h3>
+
 <div align="center">
   <a href="mailto:kalidaskj004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/kalidaskj004">
+  <a href="https://www.linkedin.com/in/kalidaskj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/kalidaskj004" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
+
 
 <br/>
 
