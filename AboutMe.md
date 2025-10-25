@@ -6,12 +6,20 @@
   <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
 </a>
 
-  
-  
-  
-  
-  
-  
+<br>
+
+<!-- About Me -->
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
+
+I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, currently in process of expanding to include Python.
+
+- 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
+- 🛠 Experienced in Cloud and DevOps. Knowledgeable in Computer Networking and Cyber Security.
+- 👯 Open to collaborating on **full-stack projects & open-source**, or anything creative and fun.
+- ✔ Feel free to ask me anything! I'm always eager to help.
+- 📫 Reach out to me at <a href="mailto:vikramjit.s.gill04@email.com">vikramjit.s.gill04@email.com</a>
+- Outside of tech, I enjoy 🎮 video games, 🎵 music, 💪 gym, 🍿 anime, and 📖 manhwas!
+
   
   
   
