@@ -29,3 +29,20 @@ Curious and approachable—always happy to answer questions and share knowledge.
 Portfolio: <a href="https://detour3d.framer.media" target="_blank">My Portfolio</a>  
 
 Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
+
+<br>
+
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:kalidaskj004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kalidaskj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/kalidaskj004" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</div>
+
+
