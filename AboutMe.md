@@ -1,3 +1,20 @@
+<!-- Top Neon Blue Bar -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- MasterHead -->
+<a href="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif">
+  <img src="https://github.com/CODEKJ777/CODEKJ777/blob/main/GIF.gif" alt="MasterHead GIF" style="width:auto; height:auto" />
+</a>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
   Hi, I’m Kalidas KJ (aka @N0va777) 
 
 - Passionate about software development, game development, and creating innovative digital experiences.  
