@@ -16,11 +16,16 @@
 <!-- About Me -->
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;***About me***
 
-I am a **Software Developer** passionate about building scalable apps and exploring cloud technologies. My core stack is JavaScript/TypeScript and its related frameworks/libraries, currently in process of expanding to include Python.
+I’m a **Game Developer and Software Developer** who loves designing interactive and exciting worlds, working with **Python, C++, Unreal Engine, and Unity** to build both games and software.  
 
-- 🚀 Building projects with **TypeScript, MERN, Tailwind, AWS, GraphQL**
-- 🛠 Experienced in Cloud and DevOps. Knowledgeable in Computer Networking and Cyber Security.
-- 👯 Open to collaborating on **full-stack projects & open-source**, or anything creative and fun.
-- ✔ Feel free to ask me anything! I'm always eager to help.
-- 📫 Reach out to me at <a href="mailto:vikramjit.s.gill04@email.com">vikramjit.s.gill04@email.com</a>
-- Outside of tech, I enjoy 🎮 video games, 🎵 music, 💪 gym, 🍿 anime, and 📖 manhwas!
+Creating projects using **Unreal Engine, Unity, Python, C++**, while exploring **sound design and music production**.  
+
+Knowledgeable in **ethical hacking and red teaming, computer networking, and cybersecurity**.  
+
+Open to collaborating on **games, interactive software, open-source projects, or any creative and fun endeavor**.  
+
+Curious and approachable—always happy to answer questions and share knowledge.  
+
+Portfolio: [https://detour3d.framer.media](https://detour3d.framer.media)  
+
+Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
