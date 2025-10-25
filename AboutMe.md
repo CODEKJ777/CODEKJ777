@@ -28,7 +28,7 @@ Interests: 🎮 gaming, 🎵 music, 💪 fitness, ✨ magic
 <br><br>
 
 <!-- Connect with Me -->
-<h3 align="center">Connect with Me:</h3>
+<h3 align="center"> Connect with Me </h3>
 
 <div align="center">
   <a href="mailto:kalidaskj004@gmail.com">
