@@ -13,13 +13,16 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-I’m a Game Developer and Software Developer who loves designing interactive and exciting worlds, working with Python, C++, Unreal Engine, and Unity to build both games and software.<br>
-Creating projects using Unreal Engine, Unity, Python, C++, while exploring sound design and music production.<br>
-Knowledgeable in ethical hacking and red teaming, computer networking, and cybersecurity.<br>
-Open to collaborating on games, interactive software, open-source projects, or any creative and fun endeavor.<br>
-Curious and approachable—always happy to answer questions and share knowledge.<br>
-Portfolio: <a href="https://detour3d.framer.media">detour3d.framer.media</a><br>
-Interests: gaming, music, fitness, and magic
+<ul>
+  <li>I’m a <b>Game Developer and Software Developer</b> passionate about building interactive and creative experiences.</li>
+  <li>I work primarily with <b>Unreal Engine, Unity, Python, and C++</b> to design both games and software.</li>
+  <li><b>Creating projects</b> using Unreal Engine, Unity, Python, and C++ while exploring sound design and music production.</li>
+  <li><b>Knowledgeable in</b> ethical hacking, red teaming, computer networking, and cybersecurity.</li>
+  <li><b>Open to collaborating</b> on games, interactive software, open-source projects, or any creative and fun endeavor.</li>
+  <li><b>Curious and approachable</b> — always happy to answer questions and share knowledge.</li>
+  <li><b>Portfolio: </b> <a href="https://detour3d.framer.media">detour3d.framer.media</a> <br> </li>
+  <li><b>Interests:</b> gaming, music, fitness, and magic.</li>
+</ul>
 </p>
 
 <br/>
