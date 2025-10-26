@@ -11,7 +11,7 @@
 
 
 <!-- About Me -->
-<h3 align="left">💫 About Me</h3>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 <p>
 <ul>
   <li>I’m a <b>Game Developer and Software Developer</b> passionate about building interactive and creative experiences.</li>
