@@ -116,3 +116,10 @@
   <a href="https://monkeytype.com/profile/Kalidaskj" target="_blank">Monkeytype Profile</a>
 </div>
 
+
+<br/><br/><br/>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<p align="center">
+  ⚠️ This README is uniquely designed by <strong>Kalidas KJ</strong>.
+</p>
+
