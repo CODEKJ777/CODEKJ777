@@ -20,7 +20,8 @@
   <li><b>Knowledgeable in</b> ethical hacking, red teaming, computer networking, and cybersecurity.</li>
   <li><b>Open to collaborating</b> on games, interactive software, open-source projects, or any creative and fun endeavor.</li>
   <li><b>Curious and approachable</b> — always happy to answer questions and share knowledge.</li>
-  <li><b>Portfolio: </b> <a href="https://portfolio-mocha-eight-35.vercel.app">detour3d.framer.media</a> <br> </li>
+  <li><b>Portfolio: </b> <a href="https://portfolio-mocha-eight-35.vercel.app">Portfolio
+  </a> <br> </li>
   <li><b>Interests:</b> gaming, music, fitness, and magic.</li>
 </ul>
 </p>
